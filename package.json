@@ -1,0 +1,1 @@
+{"name":"nexus-producthunt-scraper","version":"1.0.0","type":"module","description":"Product Hunt scraper","engines":{"node":">=18"},"dependencies":{"apify":"^3.2.0","crawlee":"^3.5.0"}}
